@@ -1,1 +1,1 @@
-# tnyurl.github.io
+# cname.tnyurl.github.io
